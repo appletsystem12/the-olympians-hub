@@ -18,3 +18,5 @@ use App\Http\Controllers\HomeController;
     return view('welcome');
 }); */
 Route::any('/','App\Http\Controllers\HomeController@index');
+Route::any('/about-us','App\Http\Controllers\HomeController@aboutUs');
+Route::any('/contact-us','App\Http\Controllers\HomeController@contactUs');
