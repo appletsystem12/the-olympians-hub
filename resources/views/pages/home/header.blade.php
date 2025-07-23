@@ -42,7 +42,6 @@
 										<li><a href="{{url('nmtc-junior')}}">NMTC(junior)</a></li>
 									</ul>
 								</li>
-								<li><a href="{{url('our-team')}}">Our Team<span class="submenu-indicator"></span></a></li>
 								<li><a href="{{url('contact-us')}}">Contact Us<span class="submenu-indicator"></span></a></li>
 							</ul>
 						</div>

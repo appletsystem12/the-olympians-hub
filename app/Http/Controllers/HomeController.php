@@ -20,6 +20,10 @@ Class HomeController extends Controller {
     {
         return view('pages/home/about-us');
     }
+    public function ourTeam()
+    {
+        return view('pages/home/our-team');
+    }
     public function contactUs()
     {
         return view('pages/home/contact-us');
