@@ -31,18 +31,14 @@
 								<li><a href="{{url('about-us')}}">About Us<span class="submenu-indicator"></span></a></li>
 								<li><a href="{{url('exams')}}">Exams<span class="submenu-indicator"></span></a>
 									<ul class="nav-dropdown nav-submenu">
-										<li><a href="{{url('ioqm')}}">IOQM<span class="submenu-indicator"></span></a></li>
-										<li><a href="{{url('nsejs')}}">NSEJS</a></li>
-										<li><a href="{{url('nsep')}}">NSEP</a></li>
-										<li><a href="{{url('nsec')}}">NSEC</a></li>
-										<li><a href="{{url('nsea')}}">NSEA</a></li>
-										<li><a href="{{url('nseb')}}">NSEB</a></li>
-										<li><a href="{{url('nmtc-primary')}}">NMTC(Primary)</a></li>
-										<li><a href="{{url('nmtc-sub-junior')}}">NMTC(sub Junior)</a></li>
-										<li><a href="{{url('nmtc-junior')}}">NMTC(junior)</a></li>
+										<li><a href="{{url('ioqm-rmo-inmo')}}">IOQM/RMO/INMO<span class="submenu-indicator"></span></a></li>
+										<li><a href="{{url('smo')}}">SMO</a></li>
+										<li><a href="{{url('amc-aime')}}">AMC/AIME</a></li>
+										<li><a href="{{url('isi-cmi')}}">ISI /CMI</a></li>
 									</ul>
 								</li>
 								<li><a href="{{url('our-team')}}">Our Team<span class="submenu-indicator"></span></a></li>
+								<li><a href="{{url('our-vision')}}">Our Vision<span class="submenu-indicator"></span></a></li>
 								<li><a href="{{url('contact-us')}}">Contact Us<span class="submenu-indicator"></span></a></li>
 							</ul>
 						</div>

@@ -9,87 +9,16 @@
 						<div class="col-xl-6 col-lg-7 col-md-12 col-sm-12">
 							<div class="card rounded-4 p-lg-5 p-4">
 								<div class="hero-caption mb-4">
-									<h1 class="big-header-capt text-dark mb-0">The #1 Place to Grow Your Career</h1>
-									<p>Search & Study any topics, anytime. Choose from thousands of expert-led courses now.</p>
+									<h1 class="big-header-capt text-dark mb-0">Your Launchpad to Olympiad Success</h1>
+									<p>Crack Olympiads with focused learning, expert support.</p>
 								</div>
-								
-								<div class="hero-search">
-									<form action="get" class="search-form border border-2">
-										<div class="form-group flex-fill">
-											<input type="text" class="form-control" placeholder="Search for courses, skills, and videos">
-											<i class="ico bi bi-search"></i>
-										</div>
-										<div class="form-group">
-											<button type="button" class="btn btn-green"><i class="bi bi-send-fill"></i></button>
-										</div>
-									</form>
-								</div>
+								<div><a href="{{url('contact-us')}}" class="btn btn-main rounded-pill px-5">Enquiry Now</a></div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<!-- ============================ Hero Banner End ================================== -->
-			
-			<!-- ============================ Trips Facts Start ================================== -->
-			<div class="partner-slider py-5 pb-0">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-xl-12 col-lg-12 col-12">
-							<div class="single_brand" id="brand-slide">
-									
-								<!-- single -->
-								<div class="single_brands">
-									<img src="assets/img/lg-1.png" class="img-fluid" alt="" />
-								</div>
-								
-								<!-- single -->
-								<div class="single_brands">
-									<img src="assets/img/lg-2.png" class="img-fluid" alt="" />
-								</div>
-								
-								<!-- single -->
-								<div class="single_brands">
-									<img src="assets/img/lg-3.png" class="img-fluid" alt="" />
-								</div>
-								
-								<!-- single -->
-								<div class="single_brands">
-									<img src="assets/img/lg-4.png" class="img-fluid" alt="" />
-								</div>
-								
-								<!-- single -->
-								<div class="single_brands">
-									<img src="assets/img/lg-5.png" class="img-fluid" alt="" />
-								</div>
-								
-								<!-- single -->
-								<div class="single_brands">
-									<img src="assets/img/lg-6.png" class="img-fluid" alt="" />
-								</div>
-								
-								<!-- single -->
-								<div class="single_brands">
-									<img src="assets/img/lg-7.png" class="img-fluid" alt="" />
-								</div>
-								
-								<!-- single -->
-								<div class="single_brands">
-									<img src="assets/img/lg-8.png" class="img-fluid" alt="" />
-								</div>
-								
-								<!-- single -->
-								<div class="single_brands">
-									<img src="assets/img/lg-9.png" class="img-fluid" alt="" />
-								</div>
-								
-							</div>
-						
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- ============================ Trips Facts Start ================================== -->
 			
 			<!-- ============================ Working Process Start ================================== -->
 			<section>
@@ -111,11 +40,11 @@
 						<div class="col-lg-4 col-md-4 col-sm-12">
 							<div class="prc-wraps">
 								<div class="prc-icons mb-3">
-									<div class="square--80 circle bg-light-green mx-auto"><span class="text-green fs-3"><i class="bi bi-search"></i></span></div>
+									<div class="square--80 circle bg-light-green mx-auto"><span class="text-green fs-3"><i class="bi bi-bullseye"></i></span></div>
 								</div>
 								<div class="prc-caption text-center">
-									<h4>Find Course</h4>
-									<p class="text-muted-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+									<h4>Focused Olympiad Preparation</h4>
+									<p class="text-muted-2">We specialize in training students for top math Olympiads like IOQM, RMO, INMO, AMC, SMO, and ISI/CMI entrances with structured learning paths.</p>
 								</div>
 							</div>
 						</div>
@@ -124,11 +53,11 @@
 						<div class="col-lg-4 col-md-4 col-sm-12">
 							<div class="prc-wraps">
 								<div class="prc-icons mb-3">
-									<div class="square--80 circle bg-light-main mx-auto"><span class="text-main fs-3"><i class="bi bi-calendar-date"></i></span></div>
+									<div class="square--80 circle bg-light-main mx-auto"><span class="text-main fs-3"><i class="bi bi-person-badge"></i></span></div>
 								</div>
 								<div class="prc-caption text-center">
-									<h4>Book Your Scat</h4>
-									<p class="text-muted-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+									<h4>Expert-Curated Resources</h4>
+									<p class="text-muted-2">Our study material, mock tests, and video sessions are designed by Olympiad mentors and problem solvers with proven success.</p>
 								</div>
 							</div>
 						</div>
@@ -137,11 +66,11 @@
 						<div class="col-lg-4 col-md-4 col-sm-12">
 							<div class="prc-wraps">
 								<div class="prc-icons mb-3">
-									<div class="square--80 circle bg-light-red mx-auto"><span class="text-red fs-3"><i class="bi bi-shield-fill-check"></i></span></div>
+									<div class="square--80 circle bg-light-red mx-auto"><span class="text-red fs-3"><i class="bi bi-person-video3"></i></span></div>
 								</div>
 								<div class="prc-caption text-center">
-									<h4>Get Certified</h4>
-									<p class="text-muted-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+									<h4>Student-Centric Approach</h4>
+									<p class="text-muted-2">From foundation building to advanced problem-solving, we guide students at every stage of their Olympiad journey.</p>
 								</div>
 							</div>	
 						</div>						
@@ -169,38 +98,6 @@
 					
 					<!-- Content Row -->
 					<div class="row justify-content-center">
-					
-						<!-- tab Link -->
-						<div class="col-xl-12 col-lg-12 col-12">	
-							<ul class="nav nav-tabs simple smalls scroll-tab align-items-center justify-content-center border-0 mb-4" id="courseTab" role="tablist">
-                                <!-- nav item -->
-                                <li class="nav-item ms-0" role="presentation">
-                                    <a class="nav-link active" id="pills-development-tab" data-bs-toggle="pill" href="#pills-development" role="tab" aria-controls="pills-development" aria-selected="true">
-                                        Development
-                                    </a>
-                                </li>
-                                <!-- nav item -->
-                                <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="pills-design-tab" data-bs-toggle="pill" href="#pills-design" role="tab" aria-controls="pills-design" aria-selected="false" tabindex="-1">Design</a>
-                                </li>
-                                <!-- nav item -->
-                                <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="pills-marketing-tab" data-bs-toggle="pill" href="#pills-marketing" role="tab" aria-controls="pills-marketing" aria-selected="false" tabindex="-1">
-                                        Marketing
-                                    </a>
-                                </li>
-                                <!-- nav item -->
-                                <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="pills-business-tab" data-bs-toggle="pill" href="#pills-business" role="tab" aria-controls="pills-business" aria-selected="false" tabindex="-1">
-                                        Business
-                                    </a>
-                                </li>
-                                <!-- nav item -->
-                                <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="pills-accounting-tab" data-bs-toggle="pill" href="#pills-accounting" role="tab" aria-controls="pills-accounting" aria-selected="false" tabindex="-1">Accounting</a>
-                                </li>
-                            </ul>	
-						</div>
 						
 						<!-- Tab Content -->
 						<div class="col-xl-12 col-lg-12 col-12">
@@ -216,34 +113,16 @@
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<div class="save-course position-absolute top-0 end-0 me-3 mt-3">
-														<a href="#" class="bookmark-button"><i class="bi bi-suit-heart"></i></a>
-													</div>
-													<a href="course-detail.html"><img src="assets/img/courses-1.jpg" class="img-fluid" alt=""></a>
+													<a href="course-detail.html"><img src="assets/img/ioqm-course.jpeg" class="img-fluid" alt=""></a>
 												</div>
 												
 												<div class="education-body p-3">
 													<div class="education-title">
-														<h4 class="fs-6 fw-medium"><a href="course-detail.html">HTML Mastery: Complete Guide to HTML from Basics to Advanced</a></h4>
-													</div>
-													
-													<div class="cources-info">
-														<ul>
-															<li><i class="bi bi-camera-reels"></i>32 Lectures</li>
-															<li><i class="bi bi-bar-chart"></i>Beginner</li>
-															<li><i class="bi bi-coin"></i>$149</li>
-															<li><i class="bi bi-star-fill text-warning"></i><span class="overall-rates text-dark fw-medium ms-1">4.9</span><span class="total-reviews">(2.22k)</span></li>
-														</ul>
+														<h4 class="fs-6 fw-medium"><a href="course-detail.html">IOQM/RMO/INMO</a></h4>
 													</div>
 												</div>
 												
 												<div class="education-footer p-3">
-													<div class="education_block_author">
-														<a href="#" class="d-flex align-items-center justify-content-start gap-2">
-															<span class="square--30"><img src="assets/img/avatar-1.jpg" class="img-fluid circle" alt="Author"></span>
-															<span class="text-dark fw-medium">Cody L.</span>
-														</a>
-													</div>
 													<div class="enrolled-link"><a href="#" class="main-link fw-medium">Enrolled Now<i class="bi bi-arrow-right ms-2"></i></a></div>
 												</div>
 											</div>	
@@ -254,34 +133,16 @@
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<div class="save-course position-absolute top-0 end-0 me-3 mt-3">
-														<a href="#" class="bookmark-button"><i class="bi bi-suit-heart"></i></a>
-													</div>
-													<a href="course-detail.html"><img src="assets/img/courses-2.jpg" class="img-fluid" alt=""></a>
+													<a href="course-detail.html"><img src="assets/img/smo.jpg" class="img-fluid" alt=""></a>
 												</div>
 												
 												<div class="education-body p-3">
 													<div class="education-title">
-														<h4 class="fs-6 fw-medium"><a href="course-detail.html">Python Unleashed: Mastering JavaScript for Web Development</a></h4>
-													</div>
-													
-													<div class="cources-info">
-														<ul>
-															<li><i class="bi bi-camera-reels"></i>45 Lectures</li>
-															<li><i class="bi bi-bar-chart"></i>Advance</li>
-															<li><i class="bi bi-coin"></i>$179</li>
-															<li><i class="bi bi-star-fill text-warning"></i><span class="overall-rates text-dark fw-medium ms-1">4.9</span><span class="total-reviews">(1.34k)</span></li>
-														</ul>
+														<h4 class="fs-6 fw-medium"><a href="course-detail.html">SMO</a></h4>
 													</div>
 												</div>
 												
 												<div class="education-footer p-3">
-													<div class="education_block_author">
-														<a href="#" class="d-flex align-items-center justify-content-start gap-2">
-															<span class="square--30"><img src="assets/img/avatar-2.jpg" class="img-fluid circle" alt="Author"></span>
-															<span class="text-dark fw-medium">Adam Lobby.</span>
-														</a>
-													</div>
 													<div class="enrolled-link"><a href="#" class="main-link fw-medium">Enrolled Now<i class="bi bi-arrow-right ms-2"></i></a></div>
 												</div>
 											</div>	
@@ -292,34 +153,16 @@
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<div class="save-course position-absolute top-0 end-0 me-3 mt-3">
-														<a href="#" class="bookmark-button"><i class="bi bi-suit-heart"></i></a>
-													</div>
-													<a href="course-detail.html"><img src="assets/img/courses-3.jpg" class="img-fluid" alt=""></a>
+													<a href="course-detail.html"><img src="assets/img/aime.png" class="img-fluid" alt=""></a>
 												</div>
 												
 												<div class="education-body p-3">
 													<div class="education-title">
-														<h4 class="fs-6 fw-medium"><a href="course-detail.html">UX/UI Design Essentials: Designing User-Centered Interfaces</a></h4>
-													</div>
-													
-													<div class="cources-info">
-														<ul>
-															<li><i class="bi bi-camera-reels"></i>22 Lectures</li>
-															<li><i class="bi bi-bar-chart"></i>Beginner</li>
-															<li><i class="bi bi-coin"></i>$129</li>
-															<li><i class="bi bi-star-fill text-warning"></i><span class="overall-rates text-dark fw-medium ms-1">4.9</span><span class="total-reviews">(3.45k)</span></li>
-														</ul>
+														<h4 class="fs-6 fw-medium"><a href="course-detail.html">AMC/AIME</a></h4>
 													</div>
 												</div>
 												
 												<div class="education-footer p-3">
-													<div class="education_block_author">
-														<a href="#" class="d-flex align-items-center justify-content-start gap-2">
-															<span class="square--30"><img src="assets/img/avatar-3.jpg" class="img-fluid circle" alt="Author"></span>
-															<span class="text-dark fw-medium">Akkie Lume</span>
-														</a>
-													</div>
 													<div class="enrolled-link"><a href="#" class="main-link fw-medium">Enrolled Now<i class="bi bi-arrow-right ms-2"></i></a></div>
 												</div>
 											</div>	
@@ -330,34 +173,16 @@
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<div class="save-course position-absolute top-0 end-0 me-3 mt-3">
-														<a href="#" class="bookmark-button"><i class="bi bi-suit-heart"></i></a>
-													</div>
-													<a href="course-detail.html"><img src="assets/img/courses-4.jpg" class="img-fluid" alt=""></a>
+													<a href="course-detail.html"><img src="assets/img/isi-cmi.png" class="img-fluid" alt=""></a>
 												</div>
 												
 												<div class="education-body p-3">
 													<div class="education-title">
-														<h4 class="fs-6 fw-medium"><a href="course-detail.html">Backend Development with Node.js: Building Scalable Web Apps</a></h4>
-													</div>
-													
-													<div class="cources-info">
-														<ul>
-															<li><i class="bi bi-camera-reels"></i>39 Lectures</li>
-															<li><i class="bi bi-bar-chart"></i>Advance</li>
-															<li><i class="bi bi-coin"></i>$129</li>
-															<li><i class="bi bi-star-fill text-warning"></i><span class="overall-rates text-dark fw-medium ms-1">4.9</span><span class="total-reviews">(2.45k)</span></li>
-														</ul>
+														<h4 class="fs-6 fw-medium"><a href="course-detail.html">ISI /CMI</a></h4>
 													</div>
 												</div>
 												
 												<div class="education-footer p-3">
-													<div class="education_block_author">
-														<a href="#" class="d-flex align-items-center justify-content-start gap-2">
-															<span class="square--30"><img src="assets/img/avatar-4.jpg" class="img-fluid circle" alt="Author"></span>
-															<span class="text-dark fw-medium">Luer Luke</span>
-														</a>
-													</div>
 													<div class="enrolled-link"><a href="#" class="main-link fw-medium">Enrolled Now<i class="bi bi-arrow-right ms-2"></i></a></div>
 												</div>
 											</div>	
@@ -921,7 +746,7 @@
 												
 												<div class="education-body p-3">
 													<div class="education-title">
-														<h4 class="fs-6 fw-medium"><a href="course-detail.html">UX/UI Design Essentials: Designing User-Centered Interfaces</a></h4>
+			 											<h4 class="fs-6 fw-medium"><a href="course-detail.html">UX/UI Design Essentials: Designing User-Centered Interfaces</a></h4>
 													</div>
 													
 													<div class="cources-info">
@@ -930,7 +755,7 @@
 															<li><i class="bi bi-bar-chart"></i>Beginner</li>
 															<li><i class="bi bi-coin"></i>$129</li>
 															<li><i class="bi bi-star-fill text-warning"></i><span class="overall-rates text-dark fw-medium ms-1">4.9</span><span class="total-reviews">(3.45k)</span></li>
-														</ul>
+													 	</ul>
 													</div>
 												</div>
 												
@@ -998,8 +823,8 @@
 					<div class="row justify-content-center">
 						<div class="col-lg-8 col-md-10 col-sm-12">
 							<div class="sec-heading center">
-								<h2>Discover Categories</h2>
-								<p>Browse a Wide Range of Subjects to Start Learning What You Love</p>
+								<h2>Explore Your Olympiad Journey</h2>
+								<p>Dive into specialized Olympiad tracks like IOQM, INMO, AMC, and more—each crafted to sharpen your problem-solving skills.</p>
 							</div>
 						</div>
 					</div>
@@ -1010,13 +835,10 @@
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
 								<div class="icon-wraps">
-									<span class="icon-slap fs-1"><i class="bi bi-code-slash"></i></span>
+									<span class="icon-slap fs-1"><i class="bi bi-pencil"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">Web development</h4>
-									<span class="text-muted-2">
-										<span class="fw-semibold me-1">12</span>Courses
-									</span>
+									<h4 class="text-dark fw-normal mb-0 lh-base">IOQM</h4>
 								</div>
 							</div>
 						</div>
@@ -1024,13 +846,10 @@
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
 								<div class="icon-wraps">
-									<span class="icon-slap fs-1"><i class="bi bi-brush"></i></span>
+									<span class="icon-slap fs-1"><i class="bi bi-book"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">UI/UX Design</h4>
-									<span class="text-muted-2">
-										<span class="fw-semibold me-1">45</span>Courses
-									</span>
+									<h4 class="text-dark fw-normal mb-0 lh-base">RMO</h4>
 								</div>
 							</div>
 						</div>
@@ -1038,13 +857,10 @@
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
 								<div class="icon-wraps">
-									<span class="icon-slap fs-1"><i class="bi bi-code-slash"></i></span>
+									<span class="icon-slap fs-1"><i class="bi bi-pencil-square"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">Web development</h4>
-									<span class="text-muted-2">
-										<span class="fw-semibold me-1">23</span>Courses
-									</span>
+									<h4 class="text-dark fw-normal mb-0 lh-base">INMO</h4>
 								</div>
 							</div>
 						</div>
@@ -1052,13 +868,10 @@
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
 								<div class="icon-wraps">
-									<span class="icon-slap fs-1"><i class="bi bi-megaphone"></i></span>
+									<span class="icon-slap fs-1"><i class="bi bi-list-check"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">Digital marketing</h4>
-									<span class="text-muted-2">
-										<span class="fw-semibold me-1">56</span>Courses
-									</span>
+									<h4 class="text-dark fw-normal mb-0 lh-base">SMO</h4>
 								</div>
 							</div>
 						</div>
@@ -1066,13 +879,10 @@
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
 								<div class="icon-wraps">
-									<span class="icon-slap fs-1"><i class="bi bi-briefcase"></i></span>
+									<span class="icon-slap fs-1"><i class="bi bi-alt"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">Entrepreneurship</h4>
-									<span class="text-muted-2">
-										<span class="fw-semibold me-1">87</span>Courses
-									</span>
+									<h4 class="text-dark fw-normal mb-0 lh-base">AMC</h4>
 								</div>
 							</div>
 						</div>
@@ -1080,13 +890,10 @@
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
 								<div class="icon-wraps">
-									<span class="icon-slap fs-1"><i class="bi bi-cash-stack"></i></span>
+									<span class="icon-slap fs-1"><i class="bi bi-boxes"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">Personal Finance</h4>
-									<span class="text-muted-2">
-										<span class="fw-semibold me-1">35</span>Courses
-									</span>
+									<h4 class="text-dark fw-normal mb-0 lh-base">AIME</h4>
 								</div>
 							</div>
 						</div>
@@ -1097,10 +904,7 @@
 									<span class="icon-slap fs-1"><i class="bi bi-laptop"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">IT & Software</h4>
-									<span class="text-muted-2">
-										<span class="fw-semibold me-1">33</span>Courses
-									</span>
+									<h4 class="text-dark fw-normal mb-0 lh-base">ISI</h4>
 								</div>
 							</div>
 						</div>
@@ -1108,13 +912,10 @@
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
 								<div class="icon-wraps">
-									<span class="icon-slap fs-1"><i class="bi bi-heart-pulse"></i></span>
+									<span class="icon-slap fs-1"><i class="bi bi-braces"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">Health & Fitness</h4>
-									<span class="text-muted-2">
-										<span class="fw-semibold me-1">37</span>Courses
-									</span>
+									<h4 class="text-dark fw-normal mb-0 lh-base">CMI</h4>
 								</div>
 							</div>
 						</div>
@@ -1141,37 +942,37 @@
 						<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
 							<div class="benifit-oflearning">
 								<div class="d-block mb-4">
-									<h2 class="display-5 fw-normal">Why LearnUp?<br>Online Learning Platform</h2>
-									<p>We’re developing an innovative Bootstrap-powered UI Kit tool designed specifically for developers, engineers, full-stack developers, and digital agencies.</p>
-									<p>You made all the required mock ups for commissioned layout, got all the approvals, built a tested code base or had them built, you decided on a content management system, got a license for it or adapted open source software for your client's needs.</p>
+									<h2 class="display-5 fw-normal">About Us</h2>
+									<h3>Unlocking Young Minds, Shaping Future Achievers</h3>
+									<p>The Olympiad Hub isn’t just a learning platform—it’s a movement to ignite intellectual excellence in young learners. Designed for ambitious school students, we provide a results-driven ecosystem that builds Olympiad champions through a blend of rigorous academics, smart strategy, and elite mentorship.</p>
 								</div>
 								
 								<div class="benifit-wraps mb-4">
 									<ul class="p-0 m-0 row g-4">
 										<li class="col-sm-6 fs-5">
 											<div class="d-flex align-items-center gap-2">
-												<span class="icons"><i class="bi bi-patch-check-fill text-green"></i></span><span class="fs-6">Wide Range of Courses</span>
+												<span class="icons"><i class="bi bi-patch-check-fill text-green"></i></span><span class="fs-6">Customized Learning Plans</span>
 											</div>
 										</li>
 										<li class="col-sm-6 fs-5">
 											<div class="d-flex align-items-center gap-2">
-												<span class="icons"><i class="bi bi-patch-check-fill text-green"></i></span><span class="fs-6">Cost-Effective</span>
+												<span class="icons"><i class="bi bi-patch-check-fill text-green"></i></span><span class="fs-6">Real Exam Simulations</span>
 											</div>
 										</li>
 										
 										<li class="col-sm-6 fs-5">
 											<div class="d-flex align-items-center gap-2">
-												<span class="icons"><i class="bi bi-patch-check-fill text-green"></i></span><span class="fs-6">Global Networking</span>
+												<span class="icons"><i class="bi bi-patch-check-fill text-green"></i></span><span class="fs-6">Interactive Learning Community</span>
 											</div>
 										</li>
 										<li class="col-sm-6 fs-5">
 											<div class="d-flex align-items-center gap-2">
-												<span class="icons"><i class="bi bi-patch-check-fill text-green"></i></span><span class="fs-6">Get Certificate</span>
+												<span class="icons"><i class="bi bi-patch-check-fill text-green"></i></span><span class="fs-6">Continuous Progress Tracking</span>
 											</div>
 										</li>
 									</ul>
 								</div>
-								<a href="#" class="btn btn-main rounded-pill px-5">Create an Account</a>
+								<a href="{{url('contact-us')}}" class="btn btn-main rounded-pill px-5">Enquiry Now</a>
 							</div>
 							
 						</div>
@@ -1192,8 +993,8 @@
 						<div class="col-xl-6 col-lg-6 col-sm-12">
 							<div class="history-Wraping">
 								<div class="d-block mb-4">
-									<h2 class="display-5 fw-normal">Explore Our History & <br>Core Value</h2>
-									<p class="text-muted-2">You made all the required mock ups for commissioned layout, got all the approvals, built a tested code base or had them built, you decided on a content management system, got a license for it or adapted open source software for your client's needs.</p>
+									<h2 class="display-5 fw-normal">Our Vision</h2>
+									<p class="text-muted-2">To make Olympiad preparation accessible, aspirational, and highly effective—for every motivated student, no matter their background or geography.</p>
 								</div>
 								
 								<div class="benifit-wraps mb-4">
@@ -1203,8 +1004,8 @@
 										<div class="d-flex align-items-center justify-content-start gap-3">
 											<div class="icons"><span class="square--50 circle bg-light-green fs-5"><i class="bi bi-patch-check-fill text-green"></i></span></div>
 											<div class="caps">
-												<h5>Wide Range of Courses</h5>
-												<p class="text-muted-2 m-0">Choose from thousands of subjects and skills.</p>
+												<h5>Structured Olympiad Courses</h5>
+												<p class="text-muted-2 m-0">Grade-wise, subject-specific modules in Mathematics, Science, English, Reasoning, and General Knowledge tailored to national and international Olympiad standards.</p>
 											</div>
 										</div>
 										
@@ -1212,8 +1013,8 @@
 										<div class="d-flex align-items-center justify-content-start gap-3">
 											<div class="icons"><span class="square--50 circle bg-light-green fs-5"><i class="bi bi-patch-check-fill text-green"></i></span></div>
 											<div class="caps">
-												<h5>Cost-Effective</h5>
-												<p class="text-muted-2 m-0">Often more affordable than traditional classroom learning.</p>
+												<h5>Smart Practice Platform</h5>
+												<p class="text-muted-2 m-0">Topic-wise drills, adaptive quizzes, previous year papers, and full-length mocks that simulate real exam conditions.</p>
 											</div>
 										</div>
 										
@@ -1221,14 +1022,22 @@
 										<div class="d-flex align-items-center justify-content-start gap-3">
 											<div class="icons"><span class="square--50 circle bg-light-green fs-5"><i class="bi bi-patch-check-fill text-green"></i></span></div>
 											<div class="caps">
-												<h5>Global Networking</h5>
-												<p class="text-muted-2 m-0">Connect with learners and instructors from around the world.</p>
+												<h5>Live Mentorship from Experts</h5>
+												<p class="text-muted-2 m-0">Real-time classes with Olympiad rankers and veteran educators including Dr. Priyadarshi, ensuring students gain insight beyond textbooks.</p>
+											</div>
+										</div>
+
+										<div class="d-flex align-items-center justify-content-start gap-3">
+											<div class="icons"><span class="square--50 circle bg-light-green fs-5"><i class="bi bi-patch-check-fill text-green"></i></span></div>
+											<div class="caps">
+												<h5>AI-Powered Learning Dashboard</h5>
+												<p class="text-muted-2 m-0">Track progress, identify strengths and gaps, and receive personalized improvement plans powered by intelligent analytics.</p>
 											</div>
 										</div>
 										
 									</div>
 								</div>
-								<a href="#" class="btn btn-dark rounded-pill px-5">Get Membership</a>
+								<a href="{{url('contact-us')}}" class="btn btn-main rounded-pill px-5">Enquiry Now</a>
 							</div>
 							
 						</div>
@@ -1458,48 +1267,48 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header">
 										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqOne" aria-expanded="true" aria-controls="faqOne">
-											What is included in each plan?
+											What exams do you help students prepare for?
 										</button>
 									</h2>
 									<div id="faqOne" class="accordion-collapse collapse show" data-bs-parent="#faqFirst">
 									  <div class="accordion-body">
-										Each plan provides access to a different level of features such as course materials, downloadable resources, instructor support, and certification. Please refer to the comparison table above for full details.
+										We cover major math Olympiads like IOQM, RMO, INMO, AMC, SMO, and ISI/CMI entrance exams.
 									  </div>
 									</div>
 								</div>
 								<div class="accordion-item">
 									<h2 class="accordion-header">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqTwo" aria-expanded="false" aria-controls="faqTwo">
-											Can I switch between plans later?
+											Who can enroll in OlympiadHub courses?
 										</button>
 									</h2>
 									<div id="faqTwo" class="accordion-collapse collapse" data-bs-parent="#faqFirst">
 									  <div class="accordion-body">
-										Yes! You can upgrade or downgrade your plan anytime from your account dashboard. The changes will be applied at the start of your next billing cycle.
+										Students from Class 6 to 12 preparing for national or international math Olympiads.
 									  </div>
 									</div>
 								</div>
 								<div class="accordion-item">
 									<h2 class="accordion-header">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqThree" aria-expanded="false" aria-controls="faqThree">
-											Do you offer a free trial?
+											Do you offer live or recorded classes?
 										</button>
 									</h2>
 									<div id="faqThree" class="accordion-collapse collapse" data-bs-parent="#faqFirst">
 									  <div class="accordion-body">
-										Yes, we offer a 7-day free trial for the Pro plan. During this period, you can explore all premium features without being charged.
+										We provide a mix of live sessions, recorded lessons, and self-paced practice material.
 									  </div>
 									</div>
 								</div>
 								<div class="accordion-item">
 									<h2 class="accordion-header">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqFour" aria-expanded="false" aria-controls="faqFour">
-											Do I get a certificate after completing a course?
+											What is the structure of your courses?
 										</button>
 									</h2>
 									<div id="faqFour" class="accordion-collapse collapse" data-bs-parent="#faqFirst">
 									  <div class="accordion-body">
-										Absolutely. All our paid plans include a downloadable certificate upon successful completion of eligible courses.
+										Courses include concept lectures, past papers, mock tests, and doubt-solving forums.
 									  </div>
 									</div>
 								</div>
@@ -1513,48 +1322,48 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header">
 										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqFive" aria-expanded="true" aria-controls="faqFive">
-											Is there a discount for yearly billing?
+											How do I register for a course?
 										</button>
 									</h2>
 									<div id="faqFive" class="accordion-collapse collapse show" data-bs-parent="#faqSeconda">
 									  <div class="accordion-body">
-										Each plan provides access to a different level of features such as course materials, downloadable resources, instructor support, and certification. Please refer to the comparison table above for full details.
+										You can enquire directly on our website through contact us section of the website.
 									  </div>
 									</div>
 								</div>
 								<div class="accordion-item">
 									<h2 class="accordion-header">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqSix" aria-expanded="false" aria-controls="faqSix">
-											Can I use one subscription for multiple users?
+											Are there free resources available?
 										</button>
 									</h2>
 									<div id="faqSix" class="accordion-collapse collapse" data-bs-parent="#faqSeconda">
 									  <div class="accordion-body">
-										Each subscription is valid for a single user. For team or classroom access, please contact us about our group plans.
+										Yes, we offer free trial content, sample questions, and practice sheets.
 									  </div>
 									</div>
 								</div>
 								<div class="accordion-item">
 									<h2 class="accordion-header">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqSeven" aria-expanded="false" aria-controls="faqSeven">
-											What payment methods do you accept?
+											Can I access content on mobile or tablet?
 										</button>
 									</h2>
 									<div id="faqSeven" class="accordion-collapse collapse" data-bs-parent="#faqSeconda">
 									  <div class="accordion-body">
-										We accept all major credit/debit cards, PayPal, and UPI. For enterprise customers, invoice billing can also be arranged.
+										Yes, the platform is fully responsive and works on all devices.
 									  </div>
 									</div>
 								</div>
 								<div class="accordion-item">
 									<h2 class="accordion-header">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqEight" aria-expanded="false" aria-controls="faqEight">
-											Do you offer refunds?
+											Do you offer guidance for beginners?
 										</button>
 									</h2>
 									<div id="faqEight" class="accordion-collapse collapse" data-bs-parent="#faqSeconda">
 									  <div class="accordion-body">
-										Yes, we have a 7-day money-back guarantee. If you're not satisfied, you can request a full refund within the first week of your subscription.
+										Absolutely! We have foundation-level content and support to help new learners get started.
 									  </div>
 									</div>
 								</div>

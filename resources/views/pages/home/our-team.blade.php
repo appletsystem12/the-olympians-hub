@@ -30,8 +30,7 @@
 				<div class="container">
 
 					<!-- Row -->
-					<div class="row gx-xxl-4">	
-						
+					<div class="row gx-xxl-4">
 						<div class="col-xxl-12 col-lg-12 col-12">
 							
 							<!-- Row -->

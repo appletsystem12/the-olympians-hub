@@ -4,50 +4,42 @@
 					<div class="container">
 						<div class="row">
 							
-							<div class="col-lg-3 col-md-3">
+							<div class="col-lg-3 col-md-4">
 								<div class="footer-widget">
 									<img src="assets/img/logo.jpeg" class="img-footer img-fluid" alt="logo-icon" width="80"  />
 									<div class="footer-add">
 										<address class="mb-4 lh-base">4967  Sardis Sta, Victoria 8007, Montreal<br>United State</address>
-										<div class="d-flex align-items-center call-now gap-2 mb-3">
-											<div class="square--30 circle bg-light-main text-main"><i class="bi bi-telephone"></i></div>
-											<div class="fs-6 fw-semibold">+1 246-345-0695</div>
-										</div>
-										<div class="d-flex align-items-center call-now gap-2">
-											<div class="square--30 circle bg-light-main text-main"><i class="bi bi-envelope"></i></div>
-											<div class="fs-6 fw-semibold">support@learnup.com</div>
-										</div>
 									</div>
 									
 								</div>
 							</div>		
-							<div class="col-lg-2 col-md-3">
+							<div class="col-lg-3 col-md-4">
 								<div class="footer-widget">
-									<h4 class="widget-title">Navigations</h4>
+									<h4 class="widget-title">Examination</h4>
 									<ul class="footer-menu">
-										<li><a href="about-us.html">About Us</a></li>
-										<li><a href="faq.html">FAQs Page</a></li>
-										<li><a href="checkout.html">Checkout</a></li>
-										<li><a href="contact.html">Contact</a></li>
-										<li><a href="blog.html">Blog</a></li>
+										<li><a href="{{url('ioqm-rmo-inmo')}}">IOQM/RMO/INMO</a></li>
+										<li><a href="{{url('smo')}}">SMO</a></li>
+										<li><a href="{{url('amc-aime')}}">AMC/AIME</a></li>
+										<li><a href="{{url('isi-cmi')}}">ISI /CMI</a></li>
 									</ul>
 								</div>
 							</div>
 									
-							<div class="col-lg-2 col-md-3">
+							<div class="col-lg-3 col-md-4">
 								<div class="footer-widget">
-									<h4 class="widget-title">New Categories</h4>
+									<h4 class="widget-title">Quick Links</h4>
 									<ul class="footer-menu">
-										<li><a href="#">Designing</a></li>
-										<li><a href="#">Nusiness</a></li>
-										<li><a href="#">Software</a></li>
-										<li><a href="#">WordPress</a></li>
-										<li><a href="#">PHP</a></li>
+										<li><a href="{{url('/')}}">Home</a></li>
+										<li><a href="{{url('about-us')}}">About Us</a></li>
+										<li><a href="{{url('exams')}}">Exams</a></li>
+										<li><a href="{{url('our-team')}}">Our Team</a></li>
+										<li><a href="{{url('our-vision')}}">Our Vision</a></li>
+										<li><a href="{{url('contact-us')}}">Contact Us</a></li>
 									</ul>
 								</div>
 							</div>
 							
-							<div class="col-lg-2 col-md-3">
+							<!-- <div class="col-lg-2 col-md-3">
 								<div class="footer-widget">
 									<h4 class="widget-title">Help & Support</h4>
 									<ul class="footer-menu">
@@ -58,33 +50,19 @@
 										<li><a href="#">Faqs</a></li>
 									</ul>
 								</div>
-							</div>
+							</div> -->
 							
 							<div class="col-lg-3 col-md-12">
 								<div class="footer-widget">
-									<h4 class="widget-title">Download Apps</h4>
-									<a href="#" class="other-store-link">
-										<div class="other-store-app">
-											<div class="os-app-icon">
-												<i class="bi bi-google-play"></i>
-											</div>
-											<div class="os-app-caps">
-												Google Play
-												<span>Get It Now</span>
-											</div>
-										</div>
-									</a>
-									<a href="#" class="other-store-link">
-										<div class="other-store-app">
-											<div class="os-app-icon">
-												<i class="bi bi-apple"></i>
-											</div>
-											<div class="os-app-caps">
-												App Store
-												<span>Now it Available</span>
-											</div>
-										</div>
-									</a>
+									<h4 class="widget-title">Contact Us</h4>
+									<div class="d-flex align-items-center call-now gap-2 mb-3">
+										<div class="square--30 circle bg-light-main text-main"><i class="bi bi-telephone"></i></div>
+										<div class="fs-6 fw-semibold">+1 246-345-0695</div>
+									</div>
+									<div class="d-flex align-items-center call-now gap-2">
+										<div class="square--30 circle bg-light-main text-main"><i class="bi bi-envelope"></i></div>
+										<div class="fs-6 fw-semibold">support@learnup.com</div>
+									</div>
 								</div>
 							</div>
 							
@@ -97,7 +75,7 @@
 						<div class="row align-items-center g-3">
 							
 							<div class="col-lg-6 col-md-6">
-								<p class="mb-0">© 2020-2025 LearnUp. Designd By <a href="https://themezhub.com">Themezhub</a>.</p>
+								<p class="mb-0">© 2020-2025 THE OLYMPIADS HUB. Designd By <a href="#">Appletsystems</a>.</p>
 							</div>
 							
 							<div class="col-lg-6 col-md-6 text-md-end">

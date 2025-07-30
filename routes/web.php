@@ -21,20 +21,17 @@ use App\Http\Controllers\OurTeamController;
 }); */
 Route::any('/','App\Http\Controllers\HomeController@index');
 Route::any('/about-us','App\Http\Controllers\HomeController@aboutUs');
+Route::any('/our-vision','App\Http\Controllers\HomeController@ourVision');
 Route::any('/contact-us','App\Http\Controllers\HomeController@contactUs');
+Route::any('/submit','App\Http\Controllers\HomeController@enquirySubmit');
 
 
 //Exam Section
 Route::any('/exams','App\Http\Controllers\ExamController@index');
-Route::any('/ioqm','App\Http\Controllers\ExamController@ioqm');
-Route::any('/nsea','App\Http\Controllers\ExamController@nsea');
-Route::any('/nseb','App\Http\Controllers\ExamController@nseb');
-Route::any('/nsec','App\Http\Controllers\ExamController@nsec');
-Route::any('/nsejs','App\Http\Controllers\ExamController@nsejs');
-Route::any('/nsep','App\Http\Controllers\ExamController@nsep');
-Route::any('/nmtc-primary','App\Http\Controllers\ExamController@nmtcPrimary');
-Route::any('/nmtc-sub-junior','App\Http\Controllers\ExamController@nmtcSubJunior');
-Route::any('/nmtc-junior','App\Http\Controllers\ExamController@nmtcJunior');
+Route::any('/ioqm-rmo-inmo','App\Http\Controllers\ExamController@ioqmRmoInmo');
+Route::any('/smo','App\Http\Controllers\ExamController@smo');
+Route::any('/amc-aime','App\Http\Controllers\ExamController@amcAime');
+Route::any('/isi-cmi','App\Http\Controllers\ExamController@isiCmi');
 
 // our Team section
 Route::any('/our-team','App\Http\Controllers\OurTeamController@index');

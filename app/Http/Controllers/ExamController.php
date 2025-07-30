@@ -9,40 +9,20 @@ Class ExamController extends Controller {
     {
         return view('pages/exams/index');
     }
-    public function ioqm()
+    public function ioqmRmoInmo()
     {
-        return view('pages/exams/ioqm');
+        return view('pages/exams/ioqm-rmo-inmo');
     }
-    public function nsejs()
+    public function smo()
     {
-        return view('pages/exams/nsejs');
+        return view('pages/exams/smo');
     }
-    public function nsep()
+    public function amcAime()
     {
-        return view('pages/exams/nsep');
+        return view('pages/exams/amc-aime');
     }
-    public function nsec()
+    public function isiCmi()
     {
-        return view('pages/exams/nsec');
-    }
-    public function nsea()
-    {
-        return view('pages/exams/nsea');
-    }
-    public function nseb()
-    {
-        return view('pages/exams/nseb');
-    }
-    public function nmtcPrimary()
-    {
-        return view('pages/exams/nmtc-primary');
-    }
-    public function nmtcSubJunior()
-    {
-        return view('pages/exams/nmtc-subjunior');
-    }
-    public function nmtcJunior()
-    {
-        return view('pages/exams/nmtc-junior');
+        return view('pages/exams/isi-cmi');
     }
 }

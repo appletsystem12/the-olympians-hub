@@ -32,46 +32,48 @@
 								<div class="card-header">
 									<h4 class="card-title">Fillup The Form</h4>
 								</div>
-								
+								<form action="/submit" method="post" enctype="multipart/form-data">
+								@csrf
 								<div class="card-body p-4">
 									<div class="row g-3">
 									
 										<div class="col-lg-6 col-md-12">
 											<div class="form-group">
 												<label>Name</label>
-												<input type="text" class="form-control">
+												<input type="text" name="name" class="form-control" required>
 											</div>
 										</div>
 										
 										<div class="col-lg-6 col-md-12">
 											<div class="form-group">
 												<label>Email</label>
-												<input type="email" class="form-control">
+												<input type="email" name="email" class="form-control" required>
 											</div>
 										</div>
 										
 										<div class="col-lg-12 col-md-12">
 											<div class="form-group">
 												<label>Subject</label>
-												<input type="text" class="form-control">
+												<input type="text" name="subject" class="form-control" required>
 											</div>
 										</div>
 										
 										<div class="col-lg-12 col-md-12">
 											<div class="form-group">
 												<label>Message</label>
-												<textarea class="form-control"></textarea>
+												<textarea  name="message" class="form-control"></textarea>
 											</div>
 										</div>
 										
 										<div class="col-lg-12 col-md-12">
 											<div class="form-group">
-												<button class="btn btn-main px-5" type="button">Submit Request</button>
+												<button class="btn btn-main px-5" type="submit">Submit Request</button>
 											</div>
 										</div>
 										
 									</div>
 								</div>
+								</form>
 								
 							</div>
 											
