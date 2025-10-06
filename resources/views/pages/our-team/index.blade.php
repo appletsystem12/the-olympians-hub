@@ -10,12 +10,12 @@
 								<nav aria-label="breadcrumb">
 									<ol class="breadcrumb simple light">
 										<li class="breadcrumb-item"><a href="#">Home</a></li>
-										<li class="breadcrumb-item active" aria-current="page">Instructors</li>
+										<li class="breadcrumb-item active" aria-current="page">Our Team</li>
 									</ol>
 								</nav>
 							</div>
 							<div class="pageTitle-wrap">
-								<h1 class="text-light">Find Instructors</h1>
+								<h1 class="text-light">Our Team</h1>
 							</div>
 							
 						</div>

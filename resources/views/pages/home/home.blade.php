@@ -109,11 +109,11 @@
 									<div class="row justify-content-center g-3">
 										
 										<!-- Single Slide -->
-										<div class="col-xl-3 col-lg-4 col-md-6">
+										<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<a href="course-detail.html"><img src="assets/img/ioqm-course.jpeg" class="img-fluid" alt=""></a>
+													<a href="course-detail.html"><img src="assets/img/ioqm-course.jpeg" class="img-fluid w-100" alt="IOQM Course"></a>
 												</div>
 												
 												<div class="education-body p-3">
@@ -129,11 +129,11 @@
 										</div>
 										
 										<!-- Single Slide -->
-										<div class="col-xl-3 col-lg-4 col-md-6">
+										<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<a href="course-detail.html"><img src="assets/img/smo.jpg" class="img-fluid" alt=""></a>
+													<a href="course-detail.html"><img src="assets/img/smo.jpg" class="img-fluid w-100" alt=""></a>
 												</div>
 												
 												<div class="education-body p-3">
@@ -149,11 +149,11 @@
 										</div>
 										
 										<!-- Single Slide -->
-										<div class="col-xl-3 col-lg-4 col-md-6">
+										<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<a href="course-detail.html"><img src="assets/img/aime.png" class="img-fluid" alt=""></a>
+													<a href="course-detail.html"><img src="assets/img/aime.png" class="img-fluid w-100" alt=" aime course"></a>
 												</div>
 												
 												<div class="education-body p-3">
@@ -169,11 +169,11 @@
 										</div>
 										
 										<!-- Single Slide -->
-										<div class="col-xl-3 col-lg-4 col-md-6">
+										<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<a href="course-detail.html"><img src="assets/img/isi-cmi.png" class="img-fluid" alt=""></a>
+													<a href="course-detail.html"><img src="assets/img/isi-cmi.png" class="img-fluid w-100" alt="isi course"></a>
 												</div>
 												
 												<div class="education-body p-3">
@@ -833,89 +833,89 @@
 					<div class="row justify-content-center g-4">
 							
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
+							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-row gap-5 m-0">
 								<div class="icon-wraps">
 									<span class="icon-slap fs-1"><i class="bi bi-pencil"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">IOQM</h4>
+									<h4 class="text-dark fw-normal mb-0 mt-2 lh-base">IOQM</h4>
 								</div>
 							</div>
 						</div>
 						
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
+							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-row gap-5 m-0">
 								<div class="icon-wraps">
 									<span class="icon-slap fs-1"><i class="bi bi-book"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">RMO</h4>
+									<h4 class="text-dark fw-normal mb-0 mt-2 lh-base">RMO</h4>
 								</div>
 							</div>
 						</div>
 						
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
+							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-row gap-5 m-0">
 								<div class="icon-wraps">
 									<span class="icon-slap fs-1"><i class="bi bi-pencil-square"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">INMO</h4>
+									<h4 class="text-dark fw-normal mb-0 mt-2 lh-base">INMO</h4>
 								</div>
 							</div>
 						</div>
 						
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
+							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-row gap-5 m-0">
 								<div class="icon-wraps">
 									<span class="icon-slap fs-1"><i class="bi bi-list-check"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">SMO</h4>
+									<h4 class="text-dark fw-normal mb-0 mt-2 lh-base">SMO</h4>
 								</div>
 							</div>
 						</div>
 						
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
+							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-row gap-5 m-0">
 								<div class="icon-wraps">
 									<span class="icon-slap fs-1"><i class="bi bi-alt"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">AMC</h4>
+									<h4 class="text-dark fw-normal mb-0 mt-2 lh-base">AMC</h4>
 								</div>
 							</div>
 						</div>
 						
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
+							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-row gap-5 m-0">
 								<div class="icon-wraps">
 									<span class="icon-slap fs-1"><i class="bi bi-boxes"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">AIME</h4>
+									<h4 class="text-dark fw-normal mb-0 mt-2 lh-base">AIME</h4>
 								</div>
 							</div>
 						</div>
 						
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
+							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-row gap-5 m-0">
 								<div class="icon-wraps">
 									<span class="icon-slap fs-1"><i class="bi bi-laptop"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">ISI</h4>
+									<h4 class="text-dark fw-normal mb-0 mt-2 lh-base">ISI</h4>
 								</div>
 							</div>
 						</div>
 						
 						<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-column gap-3 m-0">
+							<div class="card-hover p-4 rounded-3 card card-body d-flex flex-row gap-5 m-0">
 								<div class="icon-wraps">
 									<span class="icon-slap fs-1"><i class="bi bi-braces"></i></span>
 								</div>
 								<div>
-									<h4 class="text-dark fw-normal mb-0 lh-base">CMI</h4>
+									<h4 class="text-dark fw-normal mb-0 mt-2 lh-base">CMI</h4>
 								</div>
 							</div>
 						</div>
@@ -1084,17 +1084,18 @@
 											</div>
 										</div>
 										<div class="review-caption d-block mb-4">
-											<h5 class="text-dark fw-semibold mb-0 lh-base">"Awesome service and courses."</h5>
+											<h5 class="text-dark fw-semibold mb-0 lh-base">"Excellent faculty"</h5>
 											<p class="text-muted-2">
-												In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual.
+												The teachers are very friendly and experienced. Just the thing that you require for a good exam preparation. More over the classes are very nice. They Even have a library so you can study there after class.
 											</p>
 										</div>
 										<div class="d-flex bg-light align-items-center justify-content-between rounded-3 p-3">
 											<div class="revierwer-avatar d-flex align-items-center gap-2">
-												<div class="avatar-box"><img src="assets/img/avatar-1.jpg" class="img-fluid square--50 circle" alt="Avatar Image"></div>
+												<!-- <div class="avatar-box"><img src="assets/img/avatar-1.jpg" class="img-fluid square--50 circle" alt="Avatar Image"></div> -->
+												 <div class="avatar-box"><i class="bi bi-person bg-primary text-white square--50 rounded-circle"></i></div>
 												<div class="reviewer-caps">
-													<h6 class="fw-semibold text-dark m-0">Taylor Morgan</h6>
-													<p class="text-muted-2 m-0 text-mid">10 Jul 2025</p>
+													<h6 class="fw-semibold text-dark m-0">Hussain</h6>
+													<p class="text-muted-2 m-0 text-mid">7th Jul 2025</p>
 												</div>
 											</div>
 											<div class="reviewer-post"><span class="badge bg-green rounded-pill">Student</span></div>
@@ -1113,15 +1114,15 @@
 										<div class="review-caption d-block mb-4">
 											<h5 class="text-dark fw-semibold mb-0 lh-base">"Awesome service and courses."</h5>
 											<p class="text-muted-2">
-												In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual.
+												Teachers are very well experienced. Faculty is also great who provide support all the time! Definitely would recommend for anyone looking to pursue JEE / NEET or any Olympiads.
 											</p>
 										</div>
 										<div class="d-flex bg-light align-items-center justify-content-between rounded-3 p-3">
 											<div class="revierwer-avatar d-flex align-items-center gap-2">
-												<div class="avatar-box"><img src="assets/img/avatar-2.jpg" class="img-fluid square--50 circle" alt="Avatar Image"></div>
+												<div class="avatar-box"><i class="bi bi-person bg-success text-white square--50 rounded-circle"></i></div>
 												<div class="reviewer-caps">
-													<h6 class="fw-semibold text-dark m-0">Cameron Lee</h6>
-													<p class="text-muted-2 m-0 text-mid">10 Jul 2025</p>
+													<h6 class="fw-semibold text-dark m-0">Dharun Nadar</h6>
+													<p class="text-muted-2 m-0 text-mid">10th Jul 2025</p>
 												</div>
 											</div>
 											<div class="reviewer-post"><span class="badge bg-green rounded-pill">Student</span></div>
@@ -1138,17 +1139,17 @@
 											</div>
 										</div>
 										<div class="review-caption d-block mb-4">
-											<h5 class="text-dark fw-semibold mb-0 lh-base">"Awesome service and courses."</h5>
+											<h5 class="text-dark fw-semibold mb-0 lh-base">"Very good institute."</h5>
 											<p class="text-muted-2">
-												In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual.
+												Teachers are very well experienced.Faculty is also great who provide support all the time!. Good facilities are provide at the centre and the coaching material is also very good for JEE / NEET or any Olympiads.
 											</p>
 										</div>
 										<div class="d-flex bg-light align-items-center justify-content-between rounded-3 p-3">
 											<div class="revierwer-avatar d-flex align-items-center gap-2">
-												<div class="avatar-box"><img src="assets/img/avatar-3.jpg" class="img-fluid square--50 circle" alt="Avatar Image"></div>
+												<div class="avatar-box"><i class="bi bi-person bg-warning text-white square--50 rounded-circle"></i></div>
 												<div class="reviewer-caps">
-													<h6 class="fw-semibold text-dark m-0">Jamie Brooks</h6>
-													<p class="text-muted-2 m-0 text-mid">10 Jul 2025</p>
+													<h6 class="fw-semibold text-dark m-0">Soumil Chopade</h6>
+													<p class="text-muted-2 m-0 text-mid">7 Aug 2025</p>
 												</div>
 											</div>
 											<div class="reviewer-post"><span class="badge bg-green rounded-pill">Student</span></div>
@@ -1165,17 +1166,17 @@
 											</div>
 										</div>
 										<div class="review-caption d-block mb-4">
-											<h5 class="text-dark fw-semibold mb-0 lh-base">"Awesome service and courses."</h5>
+											<h5 class="text-dark fw-semibold mb-0 lh-base">"Education can change anyone."</h5>
 											<p class="text-muted-2">
-												In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual.
+												A good teacher can change ANYTHING. OLYMPIAD HUB is not only about IIT JEE.No word can describe the dedication and contributions of Saurabh Priyadarshani sir in the field of mathematics.
 											</p>
 										</div>
 										<div class="d-flex bg-light align-items-center justify-content-between rounded-3 p-3">
 											<div class="revierwer-avatar d-flex align-items-center gap-2">
-												<div class="avatar-box"><img src="assets/img/avatar-4.jpg" class="img-fluid square--50 circle" alt="Avatar Image"></div>
+												<div class="avatar-box"><i class="bi bi-person text-white square--50 rounded-circle" style="background-color: pink;"></i></div>
 												<div class="reviewer-caps">
-													<h6 class="fw-semibold text-dark m-0">Riley James</h6>
-													<p class="text-muted-2 m-0 text-mid">10 Jul 2025</p>
+													<h6 class="fw-semibold text-dark m-0">Tinki Singh</h6>
+													<p class="text-muted-2 m-0 text-mid">20 Jul 2025</p>
 												</div>
 											</div>
 											<div class="reviewer-post"><span class="badge bg-green rounded-pill">Student</span></div>
@@ -1192,17 +1193,17 @@
 											</div>
 										</div>
 										<div class="review-caption d-block mb-4">
-											<h5 class="text-dark fw-semibold mb-0 lh-base">"Awesome service and courses."</h5>
+											<h5 class="text-dark fw-semibold mb-0 lh-base">"Proper facilities."</h5>
 											<p class="text-muted-2">
-												In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual.
+												The Olympiad Hub institution is definitely an upcoming coaching. Teachers are definitely well experienced and each student is given the time they need. Proper facilities are provided to students at the centre. Faculty is also great.
 											</p>
 										</div>
 										<div class="d-flex bg-light align-items-center justify-content-between rounded-3 p-3">
 											<div class="revierwer-avatar d-flex align-items-center gap-2">
-												<div class="avatar-box"><img src="assets/img/avatar-5.jpg" class="img-fluid square--50 circle" alt="Avatar Image"></div>
+												<div class="avatar-box"><i class="bi bi-person text-white square--50 rounded-circle" style="background-color: grey;"></i></div>
 												<div class="reviewer-caps">
-													<h6 class="fw-semibold text-dark m-0">Casey Allen</h6>
-													<p class="text-muted-2 m-0 text-mid">10 Jul 2025</p>
+													<h6 class="fw-semibold text-dark m-0">Kanak Khare</h6>
+													<p class="text-muted-2 m-0 text-mid">21 Jul 2025</p>
 												</div>
 											</div>
 											<div class="reviewer-post"><span class="badge bg-green rounded-pill">Student</span></div>
@@ -1219,17 +1220,17 @@
 											</div>
 										</div>
 										<div class="review-caption d-block mb-4">
-											<h5 class="text-dark fw-semibold mb-0 lh-base">"Awesome service and courses."</h5>
+											<h5 class="text-dark fw-semibold mb-0 lh-base">"Innovative and Interesting"</h5>
 											<p class="text-muted-2">
-												In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual.
+												All the faculties are superb( best one can surely find in Mumbai) Innovative and Interesting methodologies of teaching. A highly recommended for Jee/Neet/Olympiads.
 											</p>
 										</div>
 										<div class="d-flex bg-light align-items-center justify-content-between rounded-3 p-3">
 											<div class="revierwer-avatar d-flex align-items-center gap-2">
-												<div class="avatar-box"><img src="assets/img/avatar-6.jpg" class="img-fluid square--50 circle" alt="Avatar Image"></div>
+												<div class="avatar-box"><i class="bi bi-person bg-danger text-white square--50 rounded-circle"></i></div>
 												<div class="reviewer-caps">
-													<h6 class="fw-semibold text-dark m-0">Jordan Blake</h6>
-													<p class="text-muted-2 m-0 text-mid">10 Jul 2025</p>
+													<h6 class="fw-semibold text-dark m-0">Menon</h6>
+													<p class="text-muted-2 m-0 text-mid">25 Jul 2025</p>
 												</div>
 											</div>
 											<div class="reviewer-post"><span class="badge bg-green rounded-pill">Student</span></div>

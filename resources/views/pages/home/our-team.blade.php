@@ -30,9 +30,8 @@
 				<div class="container">
 
 					<!-- Row -->
-					<div class="row gx-xxl-4">
-						<div class="col-xxl-12 col-lg-12 col-12">
-							
+					<div class="row gx-xxl-4">	
+						<div class="col-xxl-12 col-lg-12 col-12">	
 							<!-- Row -->
 							<div class="row align-items-center g-3 mb-3">
 								<div class="col-xl-9 col-lg-9 col-md-9 col-sm-8 col-12">

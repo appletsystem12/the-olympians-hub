@@ -61,11 +61,11 @@
 							<div class="row justify-content-center g-xl-3 g-4 mb-5">
 								
 								<!-- Single Slide -->
-								<div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
+								<div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 col-sm-12">
 									<div class="education_block_grid border">
 									
 										<div class="education-thumb position-relative">
-											<a href="#"><img src="assets/img/ioqm-course-exam.jpg" class="img-fluid" alt=""></a>
+											<a href="#"><img src="assets/img/ioqm-course-exam.jpg" class="img-fluid w-100" alt="ioqm course"></a>
 										</div>
 										
 										<div class="education-body p-3">
@@ -81,11 +81,11 @@
 								</div>
 								
 								<!-- Single Slide -->
-								<div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
+								<div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 col-sm-12">
 									<div class="education_block_grid border">
 									
 										<div class="education-thumb position-relative">
-											<a href="#"><img src="assets/img/smo-exam.jpg" class="img-fluid" alt=""></a>
+											<a href="#"><img src="assets/img/smo-exam.jpg" class="img-fluid w-100" alt="smo course"></a>
 										</div>
 										
 										<div class="education-body p-3">
@@ -101,11 +101,11 @@
 								</div>
 								
 								<!-- Single Slide -->
-								<div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
+								<div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 col-sm-12">
 									<div class="education_block_grid border">
 									
 										<div class="education-thumb position-relative">
-											<a href="#"><img src="assets/img/aime-exam.png" class="img-fluid" alt=""></a>
+											<a href="#"><img src="assets/img/aime-exam.png" class="img-fluid w-100" alt="aime course"></a>
 										</div>
 										
 										<div class="education-body p-3">
@@ -121,11 +121,11 @@
 								</div>
 								
 								<!-- Single Slide -->
-								<div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
+								<div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 col-sm-12">
 									<div class="education_block_grid border">
 									
 										<div class="education-thumb position-relative">
-											<a href="#"><img src="assets/img/isi-cmi-exam.png" class="img-fluid" alt=""></a>
+											<a href="#"><img src="assets/img/isi-cmi-exam.png" class="img-fluid w-100" alt="isi cmi course"></a>
 										</div>
 										
 										<div class="education-body p-3">
@@ -145,8 +145,8 @@
 							<!-- Row -->
 							<div class="row">
 								<div class="col-lg-12 col-md-12 col-sm-12">
-									
-									<!-- Pagination -->
+									<?php
+									/*<!-- Pagination -->
 									<div class="row">
 										<div class="col-lg-12 col-md-12 col-sm-12">
 											<ul class="pagination d-flex align-items-center justify-content-center">
@@ -170,6 +170,9 @@
 											</ul>
 										</div>
 									</div>
+									*/
+									?>
+
 									
 								</div>
 							</div>

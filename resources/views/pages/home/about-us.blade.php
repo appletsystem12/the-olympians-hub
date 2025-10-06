@@ -130,16 +130,16 @@
 									<div class="row justify-content-center g-3">
 										
 										<!-- Single Slide -->
-										<div class="col-xl-3 col-lg-4 col-md-6">
+										<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<a href="course-detail.html"><img src="assets/img/ioqm-course.jpeg" class="img-fluid" alt=""></a>
+													<a href="#"><img src="assets/img/ioqm-course.jpeg" class="img-fluid w-100" alt="ioqm course"></a>
 												</div>
 												
 												<div class="education-body p-3">
 													<div class="education-title">
-														<h4 class="fs-6 fw-medium"><a href="course-detail.html">IOQM/RMO/INMO</a></h4>
+														<h4 class="fs-6 fw-medium"><a href="#">IOQM/RMO/INMO</a></h4>
 													</div>
 												</div>
 												
@@ -150,16 +150,16 @@
 										</div>
 										
 										<!-- Single Slide -->
-										<div class="col-xl-3 col-lg-4 col-md-6">
+										<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<a href="course-detail.html"><img src="assets/img/smo.jpg" class="img-fluid" alt=""></a>
+													<a href="#"><img src="assets/img/smo.jpg" class="img-fluid w-100" alt="smo course"></a>
 												</div>
 												
 												<div class="education-body p-3">
 													<div class="education-title">
-														<h4 class="fs-6 fw-medium"><a href="course-detail.html">SMO</a></h4>
+														<h4 class="fs-6 fw-medium"><a href="#">SMO</a></h4>
 													</div>
 												</div>
 												
@@ -170,16 +170,16 @@
 										</div>
 										
 										<!-- Single Slide -->
-										<div class="col-xl-3 col-lg-4 col-md-6">
+										<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<a href="course-detail.html"><img src="assets/img/aime.png" class="img-fluid" alt=""></a>
+													<a href="#"><img src="assets/img/aime.png" class="img-fluid w-100" alt=""></a>
 												</div>
 												
 												<div class="education-body p-3">
 													<div class="education-title">
-														<h4 class="fs-6 fw-medium"><a href="course-detail.html">AMC/AIME</a></h4>
+														<h4 class="fs-6 fw-medium"><a href="#">AMC/AIME</a></h4>
 													</div>
 												</div>
 												
@@ -190,16 +190,16 @@
 										</div>
 										
 										<!-- Single Slide -->
-										<div class="col-xl-3 col-lg-4 col-md-6">
+										<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
 											<div class="education_block_grid border">
 											
 												<div class="education-thumb position-relative">
-													<a href="course-detail.html"><img src="assets/img/isi-cmi.png" class="img-fluid" alt=""></a>
+													<a href="#"><img src="assets/img/isi-cmi.png" class="img-fluid w-100" alt="isi cmi course"></a>
 												</div>
 												
 												<div class="education-body p-3">
 													<div class="education-title">
-														<h4 class="fs-6 fw-medium"><a href="course-detail.html">ISI /CMI</a></h4>
+														<h4 class="fs-6 fw-medium"><a href="#">ISI /CMI</a></h4>
 													</div>
 												</div>
 												

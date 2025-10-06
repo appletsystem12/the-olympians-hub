@@ -12,7 +12,7 @@
 <!-- content Section Start--->
 @yield('content')
 <!-- content Section End--->
- <!-- Newsletter Section Start--->
+<!-- Newsletter Section Start--->
 @include('include.common.newsletter')
 <!-- Newsletter Section end--->
 <!-- Footer Section Start--->

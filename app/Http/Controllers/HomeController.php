@@ -3,11 +3,7 @@ namespace App\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
-//use Illuminate\Contracts\Auth\Authenticatable;
-//use App\Models\Enquiries;
-//use App\Models\AppointmentDetails;
-//use App\Models\ContactDetails;
-//use Session;
+use Session;
 
 
 Class HomeController extends Controller {
@@ -19,10 +15,6 @@ Class HomeController extends Controller {
     public function aboutUs()
     {
         return view('pages/home/about-us');
-    }
-    public function ourTeam()
-    {
-        return view('pages/home/our-team');
     }
     public function ourVision()
     {
@@ -39,15 +31,13 @@ Class HomeController extends Controller {
 
         $name = $req->input('name');
         $email = $req->input('email');
-        $subjects = $req->input('subject');
+        $subject = $req->input('subject');
         $messageText = $req->input('message'); 
+       
 
         $to = $email; 
-        echo "<pre>";
-       print_r($to);
-       echo "</pre>";
-       exit;
-		$subject = $subjects;
+
+		$subject = $subject;
 		$message = '
 			<html>
 			<head>
@@ -58,19 +48,19 @@ Class HomeController extends Controller {
 			<table>
 				<tr>
 					<th>Name</th>
-					<td>' . $name . '</td>
+					<td>' . htmlspecialchars($name) . '</td>
 				</tr>
 				<tr>
 					<th>Email</th>
-					<td>' . $email . '</td>
+					<td>' . htmlspecialchars($email) . '</td>
 				</tr>
 				<tr>
 					<th>subject</th>
-					<td>' . $subject. '</td>
+					<td>' . htmlspecialchars($subject) . '</td>
 				</tr>
 				<tr>
 					<th>Message</th>
-					<td>' .$messageText . '</td>
+					<td>' . htmlspecialchars($messageText) . '</td>
 				</tr>
 			</table>
 			</body>
@@ -80,7 +70,7 @@ Class HomeController extends Controller {
 		$headers = [];
         $headers[] = 'MIME-Version: 1.0';
         $headers[] = 'Content-type: text/html; charset=iso-8859-1';
-        $headers[] = 'From: theolympiadshub@gmail.com';
+        $headers[] = 'From:premshankarinluv@gmail.com';
 
         if (mail($to, $subject, $message, implode("\r\n", $headers))) {
             echo "Email sent successfully!";

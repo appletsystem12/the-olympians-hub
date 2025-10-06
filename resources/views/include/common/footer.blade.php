@@ -6,9 +6,11 @@
 							
 							<div class="col-lg-3 col-md-4">
 								<div class="footer-widget">
-									<img src="assets/img/logo.jpeg" class="img-footer img-fluid" alt="logo-icon" width="80"  />
+									<a href="{{url('/')}}">
+									   <img src="assets/img/logo.jpeg" class="img-footer img-fluid" alt="logo-icon" width="80"  />
+									</a>
 									<div class="footer-add">
-										<address class="mb-4 lh-base">4967  Sardis Sta, Victoria 8007, Montreal<br>United State</address>
+										<address class="mb-4 lh-base">The IITian’s Hub, Shree LR Tiwari Engineering College, Kanakia Rd, Kanakia Park, Mira Road,Mira Bhayandar, Thane – 401 107</address>
 									</div>
 									
 								</div>
@@ -57,11 +59,11 @@
 									<h4 class="widget-title">Contact Us</h4>
 									<div class="d-flex align-items-center call-now gap-2 mb-3">
 										<div class="square--30 circle bg-light-main text-main"><i class="bi bi-telephone"></i></div>
-										<div class="fs-6 fw-semibold">+1 246-345-0695</div>
+										<div class="fs-6 fw-semibold">087670 43655</div>
 									</div>
 									<div class="d-flex align-items-center call-now gap-2">
 										<div class="square--30 circle bg-light-main text-main"><i class="bi bi-envelope"></i></div>
-										<div class="fs-6 fw-semibold">support@learnup.com</div>
+										<div class="fs-6 fw-semibold">info@theiitianshub.com</div>
 									</div>
 								</div>
 							</div>
@@ -75,7 +77,7 @@
 						<div class="row align-items-center g-3">
 							
 							<div class="col-lg-6 col-md-6">
-								<p class="mb-0">© 2020-2025 THE OLYMPIADS HUB. Designd By <a href="#">Appletsystems</a>.</p>
+								<p class="mb-0">© 2025 THE OLYMPIAD HUB.</p>
 							</div>
 							
 							<div class="col-lg-6 col-md-6 text-md-end">

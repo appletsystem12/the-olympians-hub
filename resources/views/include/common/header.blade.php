@@ -19,7 +19,7 @@
 				<div class="container">
 					<nav id="navigation" class="navigation navigation-landscape">
 						<div class="nav-header">
-							<a class="nav-brand" href="#">
+							<a class="nav-brand" href="{{url('/')}}">
 								<img src="assets/img/logo-color.png" class="logo img-fluid" alt="" width="80" />
 							</a>
 							<div class="nav-toggle"></div>

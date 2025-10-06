@@ -9,7 +9,7 @@
 							
 							<div class="pageTitle-wrap text-center">
 								<h1 class="text-light">Get in Touch</h1>
-								<p class="text-light">Reference giving information on its origins, as well as a random Lipsum generator.</p>
+								<p class="text-light">The Olympiad Hub Team replay soon.</p>
 							</div>
 							
 						</div>
@@ -87,7 +87,7 @@
 									<div class="contact-info">
 								
 										<h4>Get In Touch</h4>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </p>
+										<p>The Olympiad Hub Team replay soon.</p>
 										
 										<div class="d-flex align-items-start gap-3 mb-3">
 											<div class="icons">
@@ -95,7 +95,7 @@
 											</div>
 											<div class="caps-content">
 												<h5 class="cn-info-title mb-0">Reach Us</h5>
-												<p class="text-muted lh-base">2512, New Market,<br>Eliza Road, Sincher 80 CA, Canada, USA</p>
+												<p class="text-muted lh-base">The IITian’s Hub, Shree LR Tiwari Engineering College, Kanakia Rd, Kanakia Park, Mira Road,Mira Bhayandar, Thane – 401 107</p>
 											</div>
 										</div>
 										
@@ -105,7 +105,7 @@
 											</div>
 											<div class="caps-content">
 												<h5 class="cn-info-title mb-0">Drop a Mail</h5>
-												<p class="text-muted lh-base">support@learnup.com<br>LearnUp@gmail.com</p>
+												<p class="text-muted lh-base">info@theiitianshub.com</p>
 											</div>
 										</div>
 										
@@ -115,7 +115,7 @@
 											</div>
 											<div class="caps-content">
 												<h5 class="cn-info-title mb-0">Call Us</h5>
-												<p class="text-muted lh-base">(41) 123 521 458<br>+91 235 548 7548</p>
+												<p class="text-muted lh-base">087670 43655</p>
 											</div>
 										</div>
 										

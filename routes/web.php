@@ -2,8 +2,6 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
-use App\Http\Controllers\ExamController;
-use App\Http\Controllers\OurTeamController;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,7 +22,6 @@ Route::any('/about-us','App\Http\Controllers\HomeController@aboutUs');
 Route::any('/our-vision','App\Http\Controllers\HomeController@ourVision');
 Route::any('/contact-us','App\Http\Controllers\HomeController@contactUs');
 Route::any('/submit','App\Http\Controllers\HomeController@enquirySubmit');
-
 
 //Exam Section
 Route::any('/exams','App\Http\Controllers\ExamController@index');
