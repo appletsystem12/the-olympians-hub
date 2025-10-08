@@ -246,6 +246,64 @@
 				</div>
 			</div>
 			<!-- End Modal -->
+
+ <!-- Enquiry Modal -->
+<div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-md">
+    <div class="modal-content border-0 shadow-lg rounded-4">
+
+      <!-- Header -->
+      <div class="modal-header text-white rounded-top-4" style="background: linear-gradient(135deg, #0d6efd, #00bcd4);">
+        <h5 class="modal-title fw-semibold text-white" id="enquiryModalLabel">
+          <i class="bi bi-chat-dots-fill me-2"></i> Enquiry Form
+        </h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+
+      <!-- Body -->
+      <div class="modal-body p-4">
+        <form>
+          <div class="row g-3">
+
+            <div class="col-md-6">
+              <label class="form-label fw-semibold">Name <span class="text-danger">*</span></label>
+              <input type="text" class="form-control form-control-lg rounded-3" placeholder="Enter your full name" required>
+            </div>
+
+            <div class="col-md-6">
+              <label class="form-label fw-semibold">Phone <span class="text-danger">*</span></label>
+              <input type="text" class="form-control form-control-lg rounded-3" placeholder="Enter your phone number" required>
+            </div>
+
+            <div class="col-md-12">
+              <label class="form-label fw-semibold">Email <span class="text-danger">*</span></label>
+              <input type="email" class="form-control form-control-lg rounded-3" placeholder="Enter your email address" required>
+            </div>
+
+            <div class="col-md-12">
+              <label class="form-label fw-semibold">Message</label>
+              <textarea class="form-control form-control-lg rounded-3" rows="3" placeholder="Type your message here..."></textarea>
+            </div>
+
+          </div>
+
+          <div class="text-center mt-4">
+            <button type="submit" class="btn btn-md btn-success px-5 rounded-pill shadow-sm">
+              <i class="bi bi-send-fill me-1"></i> Submit
+            </button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Footer -->
+      <!-- <div class="modal-footer border-0 text-muted small justify-content-center pb-3">
+        We’ll get back to you as soon as possible.
+      </div> -->
+
+    </div>
+  </div>
+</div>
+<!--End Enquiry modal-->
 			
 			<a id="back2Top" class="top-scroll" title="Back to top" href="#"><i class="bi bi-arrow-up"></i></a>
 			
